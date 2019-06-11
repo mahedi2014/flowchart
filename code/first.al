@@ -1,10 +1,11 @@
-st=>start: Start:>http://www.google.com[blank]
-e=>end:>http://www.google.com
-op1=>operation: My Ooooperation:$myFunction
-sub1=>subroutine: My Subroutine
-cond=>condition: Yes
-or No?:>http://www.google.com
-io=>inputoutput: catch something...
+st=>start: Start
+e=>end: End
+
+op1=>operation: You
+
+sub1=>subroutine: Go home
+cond=>condition: Come to CNS ?
+io=>inputoutput: Office time
 
 st->op1->cond
 cond(yes)->io->e
