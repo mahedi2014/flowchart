@@ -1,11 +1,3 @@
-# flowchart
-flowchart
-
-https://github.com/adrai/flowchart.js
-
-
-
-
 st=>start: Start:>http://www.google.com[blank]
 e=>end:>http://www.google.com
 op1=>operation: My Ooooperation:$myFunction
